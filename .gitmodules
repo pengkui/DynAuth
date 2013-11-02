@@ -1,0 +1,15 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:pengkui/DynAuth-server.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:pengkui/DynAuth-docs.git
+[submodule "wp7"]
+	path = wp7
+	url = git@github.com:pengkui/DynAuth-wp7.git
+[submodule "ios"]
+	path = ios
+	url = git@github.com:pengkui/DynAuth-ios.git
+[submodule "android"]
+	path = android
+	url = git@github.com:pengkui/DynAuth-android.git
